@@ -1,5 +1,5 @@
-# Roger_Raccanelli_resume
+# Roger Raccanelli
 
-Frontend Developer | React • Next.js • TypeScript
+Analista de Marketing Digital | Growth | Dados | Automação
 
-👉 [Download Resume (PDF)](./Roger_Raccanelli_resume.pdf)
+👉 [Baixar currículo (PDF)](CV_Roger_Raccanelli.pdf)
